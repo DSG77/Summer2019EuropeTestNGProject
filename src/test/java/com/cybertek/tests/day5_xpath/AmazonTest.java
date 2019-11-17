@@ -29,8 +29,9 @@ public class AmazonTest {
        // WebElement takeText =driver.findElement(By.xpath("//span[contains(text(),'results for')]"));
         //System.out.println(takeText.getText());
 
-        String resultMessage = driver.findElement(By.xpath("//span[contains(text(),'results for')]"));
-        System.out.println(resultMessage);
+       // String resultMessage = driver.findElement(By.xpath("//span[contains(text(),'results for')]"));
+        //System.out.println(resultMessage);
+
 
     }
 
