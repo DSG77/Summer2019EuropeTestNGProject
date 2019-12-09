@@ -23,7 +23,9 @@ public class basic_navigation {
         //get the title print it
         System.out.println(driver.getTitle());
 
-
+//hello world
+        System.out.println("Hello world");
+           
 
     }
 }
