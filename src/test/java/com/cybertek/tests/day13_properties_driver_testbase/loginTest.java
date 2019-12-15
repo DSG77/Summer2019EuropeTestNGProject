@@ -6,7 +6,7 @@ import com.cybertek.utilities.ConfigurationReader;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.testng.annotations.Test;
-    public class loginTest  extends TestBase {
+    public class loginTest extends TestBase {
 
         @Test
         public void test1(){
